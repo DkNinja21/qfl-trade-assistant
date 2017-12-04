@@ -1,4 +1,4 @@
-# qfl-trade-assistant
+# QFL Trade Assistant
 A simple cryptocurrency trading assistant designed to automate part of the trading method used and publicised by Quickfingers Luc.
 
 For an overview of the Quickfingers Luc trading method, see:
